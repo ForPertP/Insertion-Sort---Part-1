@@ -1,3 +1,12 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+string ltrim(const string &);
+string rtrim(const string &);
+vector<string> split(const string &);
+
+
 template <typename T>
 void show_value(const T& arr)
 {
